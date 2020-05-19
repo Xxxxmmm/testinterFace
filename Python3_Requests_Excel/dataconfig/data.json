@@ -1,0 +1,79 @@
+{
+  "user": {
+    "phone": "18992559562",
+    "password": "111111"
+  },
+  "register": {
+    "invitecode": "VCLADS",
+    "phone": "18911113333",
+    "password": "111111",
+    "phonecode": "1"
+  },
+  "memberid": {
+    "memberId": "1369"
+  },
+  "nulldata": {
+    "": ""
+  },
+  "passworddata": {
+    "telephone": "18992559562",
+    "payPassword": "111111",
+    "authCode": "1",
+    "confirmPayPassword": "111111"
+  },
+  "goods": {
+    "id": "1"
+  },
+  "buynow": {
+    "previews": {"orderType":"1","products":[{"productId":80,"quantity":1,"storeId":"1"}]}
+    },
+  "getorder": {
+    "addressId": "36845",
+    "requestId": "2292ffdb-27a9-49b5-a217-be8672b3c768",
+    "orderType": "1",
+    "pid": "1",
+    "buyNo": "1"
+  },
+  "team-1": {
+    "memberId": "1369",
+    "regTimeOrder": "",
+    "memberLevelOrder": "",
+    "isDirect": "1"
+  },
+  "team-2": {
+    "memberId": "1369",
+    "regTimeOrder": "",
+    "memberLevelOrder": "",
+    "isDirect": "1",
+    "pageNo": "1",
+    "pageSize": "10"
+  },
+  "amount": {
+    "pageNo": "1",
+    "pageSize": "10",
+    "code": "1001",
+    "transType": "ALL",
+    "isMoney": "true"
+  },
+  "withdraw": {
+    "drawApproachId": "1255697309842227201",
+    "cash": "100",
+    "walletCode": "1001",
+    "payPassword": "111111"
+  },
+  "agent": {
+    "pageNo": "1",
+    "pageSize": "10",
+    "regionProxyType": "4"
+  },
+  "amount-1": {
+    "pageNo": "1",
+    "pageSize": "10",
+    "code": "1007",
+    "transType": "ALL",
+    "isMoney": "true"
+  },
+  "orderlist": {
+    "pageNum": "1"
+  }
+}
